@@ -2,5 +2,6 @@
   "name": "Javier Milei Emperador",
   "symbol": "JMilei",
   "description": "MEME COIN del primer emperador latino Javier Milei",
+  "seller_fee_basis_points": 500,
   "image": "https://i.imgur.com/dj3bBMG.png"
 }
